@@ -14,7 +14,7 @@ Steps to use the cloned project
 1. Open build settings and switch platform to **Universal Windows Platform**
 2. Change Minimum Platform Version to **10.0.18362.0**
 3. Close Build Settings
-4. Open Scene in Scenes folder called **OpenXRMRTKBaseScene
+4. Open Scene in Scenes folder called **OpenXRMRTKBaseScene**
 5. Go build the thing!
 
 Changes that have been made to the profiles:
